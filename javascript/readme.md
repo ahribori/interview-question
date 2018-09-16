@@ -5,9 +5,13 @@
 - 동기 비동기가 어떻게 다른지 설명해주세요.
 
 ### 2단계
+- 'use strict' 가 무엇인가요?
+- this에 대해서 아는대로 설명해주세요.
+- event bubbling, event capturing, event delegation에 대해서 설명해주세요.
+- 호이스팅이 무엇인가요?
+
 
 ### 3단계
-- this에 대해서 아는대로 설명해주세요.
 - event loop에 대해서 설명해주세요.
 - task queue와 call stack에 대해서 설명해주세요.
 
