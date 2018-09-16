@@ -4,6 +4,7 @@
 - React를 사용하면서 좋았던 점과 그렇지 않았던 점을 얘기해주세요.
 - state와 props에 대해서 설명해주세요.
 - 어플리케이션 상태관리를 어떻게 하셨나요? (Redux, Mobx, Context API 등등...)
+- 서버사이드 렌더링을 해보셨나요?
 
 ### 2단계
 - React Component Lifecycle에 대해서 아는대로 설명해주세요.
@@ -31,7 +32,6 @@
 - Functional Component가 Class Component보다 더 빠른가요? 그렇게 생각하는 이유는?
 - setState가 비동기적으로 동작하는 이유
 - React 16.3 이전과 이후 라이프사이클의 변화
-- 서버사이드 렌더링을 해보셨나요?
 - 서버사이드에서 Redux store을 채운상태로 렌더링하려면?
 - 서버사이드에서 componentDidMount가 실행됩니까?
 - 서버사이드에서 ajax call이 끝난 다음 렌더링하려면?
