@@ -1,20 +1,19 @@
 # Javascript
 
-### 1단계
+### Common
 - ==과 ===의 차이를 설명해주세요.
-- 동기 비동기가 어떻게 다른지 설명해주세요.
-
-### 2단계
+- 동기적인 함수와 비동기 함수가 어떻게 다른지 설명해주세요.
 - 'use strict' 가 무엇인가요?
+- 함수를 선언하는 방법은 여러가지가 있는데, 아는대로 설명해주세요.
+- 호이스팅에 대해서 설명해주세요.
+- 클로저에 대해서 설명해주세요.
+- 자바스크립트에는 private 키워드가 없는데, 변수를 private하게 만들고 싶으면 어떻게 해야할까요?
+- prototype에 대해서 설명해주세요.
+- prototype chain은 뭔가요?
 - this에 대해서 아는대로 설명해주세요.
 - event bubbling, event capturing, event delegation에 대해서 설명해주세요.
-- 호이스팅이 무엇인가요?
-
-
-### 3단계
 - event loop에 대해서 설명해주세요.
 - task queue와 call stack에 대해서 설명해주세요.
-
 
 ### ES6+
 - var, let, const 의 차이를 설명해주세요.
